@@ -5,7 +5,7 @@ This repo tries to document my live streams on [twitch.tv](https://twitch.tv/bra
 
 ## Possible example apps
 
-- [Socks-Shop](https://microservices-demo.github.io/) by (www.weave.works)[http://www.weave.works]
+- [Socks-Shop](https://microservices-demo.github.io/) by [www.weave.works](http://www.weave.works)
 - [DNC-DShop](https://github.com/devmentors/DNC-DShop)
 - [eShopOnContainers](eShopOnContainers)
 - [TODO in microservices](elgris/microservice-app-example)
