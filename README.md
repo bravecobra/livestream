@@ -7,8 +7,8 @@ This repo tries to document my live streams on [twitch.tv](https://twitch.tv/bra
 
 - [Socks-Shop](https://microservices-demo.github.io/) by [www.weave.works](http://www.weave.works)
 - [DNC-DShop](https://github.com/devmentors/DNC-DShop)
-- [eShopOnContainers](eShopOnContainers)
-- [TODO in microservices](elgris/microservice-app-example)
+- [eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers)
+- [TODO in microservices](https://github.com/elgris/microservice-app-example)
 - [SmartHotel360](https://github.com/Microsoft/SmartHotel360)
 - A noble goal (without IT-resources/budget) that we could help out...
 - ??
