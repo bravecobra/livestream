@@ -54,9 +54,9 @@ The following list contains either known topics or ones to be explored...
     - Private
       - My Machine
       - Docker-Compose
-        - Minikube
-        - OnPrem Cluster
-        - Kube-spawn
+      - Minikube
+      - OnPrem Cluster
+      - Kube-spawn
     - Public
       - Azure
       - AWS
