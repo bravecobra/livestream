@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo tries to document my live streams on [twitch.tv](https://twitch.tv/bravecobra2) 
+This repo tries to document my live streams on [twitch.tv](https://twitch.tv/bravecobra2)
 
 ## Possible example apps
 
