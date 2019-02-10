@@ -29,7 +29,7 @@ The following list contains either known topics or ones to be explored...
   - Migrate Legacy Apps to a new architecture
   - Security
     - OAuth2/OpenID
-      - JWT
+    - JWT
   - Search
     - Lucene
     - ElasticSearch
