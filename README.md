@@ -1,4 +1,6 @@
 # Brave Cobra Twitch Stream
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbravecobra%2Flivestream.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbravecobra%2Flivestream?ref=badge_shield)
+
 
 ## Description
 
@@ -85,3 +87,7 @@ The following list contains either known topics or ones to be explored...
   - SQLite
   - RabbitMQ
   - Redis
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbravecobra%2Flivestream.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbravecobra%2Flivestream?ref=badge_large)
